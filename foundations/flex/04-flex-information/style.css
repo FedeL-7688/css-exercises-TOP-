@@ -39,7 +39,6 @@ img {
 .texto{ display: flex;
   flex-direction: row;
   
-  
 }
 .card{
   display: flex;
@@ -47,5 +46,6 @@ img {
   justify-content: center;
   align-items: center;
   flex-wrap:wrap;
+  width: 250px;
  
 }
